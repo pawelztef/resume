@@ -1,0 +1,94 @@
+# Site settings
+title: Pawel Stefaniak's CV 
+description: Pawel Stefaniak's CV 
+favicon: assets/img/graw.jpg
+baseurl: / 
+url: /
+rss_url: 
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Pawel Stefaniak 
+  title: Web Developer
+  address: Dublin
+  email: pawelztef@gmail.com 
+  link: 
+  weibo:
+  github: pawelztef
+  linkedin: pawelstefaniak
+  twitter: pawel_ztef 
+  gavatar: resumecard/assets/img/graw.jpg
+  stackoverflow:
+#  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Finzsoft Solutions Ltd
+      location: Auckland, New Zealand
+      title: Java Developer
+      started: 2014
+      duration: (2014 - Present)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work2:
+      company: Agfa HealthCare
+      location: Shanghai, China
+      title: Java Developer
+      started: 2012
+      duration: (2012 - 2014)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - work3:
+      company: Citigroup Services and Technology (China) Limited
+      location: Shanghai, China
+      title: Java Developer
+      started: 2009
+      duration: (2009 - 2012)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  educationHistory:
+    - education1:
+      organization: Northeastern University
+      location: Shenyang, China
+      degree: Bachelor
+      major: Software Engineering
+      started: 2005
+      duration: (2005 - 2009)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+  languages:
+    - language1:
+      name: Polish
+      proficiency: Native
+    - language2: 
+      name: English
+      proficiency: Professional
+    # - language3:
+    #   name: Russian 
+    #   proficiency: Limit
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: Bootstrap
+      percentage: 90%
+    - skill3:
+      name: JavaScript
+      percentage: 70%
+    - skill4:
+      name: Ruby On Rails 
+      percentage: 70%
+    - skill5:
+      name: Java/Java EE
+      percentage: 80%
+    - skill6:
+      name: MySQL
+      percentage: 60%
+    - skill7:
+      name: ASP.Net/WebFroms
+      percentage: 70%
+    - skill8:
+      name: GIT
+      percentage: 80%
